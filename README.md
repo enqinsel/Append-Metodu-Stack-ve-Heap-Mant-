@@ -1,0 +1,1 @@
+# Append-Metodu-Stack-ve-Heap-Mant-
